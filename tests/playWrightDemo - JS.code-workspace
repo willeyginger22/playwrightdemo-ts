@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../../playWrightDemo - JS"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../PlayWright Projects/Playwright-JavaScript-SauceDemo-main"
+		},
+		{
+			"path": "../../PlayWright Projects/PlaywrightTutorialFullCourse-main"
+		},
+		{
+			"path": "../../playWright-Py"
+		}
+	],
+	"settings": {
+		"editor.fontSize": 15,
+		"files.autoSave": "onFocusChange"
+	}
+}
